@@ -3,7 +3,7 @@
   <a href="https://gamebuino.com/"><img src="https://img.shields.io/badge/env-Gamebuino-blue"></a>
   <a href="http://www.musashinodenpa.com/arduino/ref/"><img src="https://img.shields.io/badge/code-C/C++-green"></a>
   <a href="http://legacy.gamebuino.com/wiki/index.php?title=Main_Page"><img src="https://img.shields.io/badge/docs-wiki-blue"></a>
-  <a href=""><img src="https://img.shields.io/badge/license-MIT-green"></a>
+  <a href="https://github.com/maturu/kanafont-gamebuino/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green"></a>
 </p>
 
 KanaFont is a C/C++ based japanese font generation system for the game of Gamebuino. 
